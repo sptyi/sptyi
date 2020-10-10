@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sptyi" alt="sptyi" /> </p>
 
-<p align="center"> 📫 Contact me: <a href="sptyiDev@gmail.com" target="blank"> sptyiDev@gmail.com </a> </p>
+<p align="center"> 📫 Contact me: <a href="mailto:sptyiDev@gmail.com" target="blank"> sptyiDev@gmail.com </a> </p>
 
 ---
 
