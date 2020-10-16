@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm CJ Hilaman</h1>
-<h3 align="center">A passionate full stack developer in the US.</h3>
+<h3 align="center">A passionate full stack web developer in the US.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sptyi" alt="sptyi" /> </p>
 
