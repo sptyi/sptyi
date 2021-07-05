@@ -1,5 +1,5 @@
-<h1 align="center">Hi, My name is CJ Hilaman</h1>
-<h3 align="center">I am a passionate, aspiring full stack web developer in the US.</h3>
+<h1 align="center">Hi, my name is CJ Hilaman.</h1>
+<h3 align="center">I am a passionate, aspiring full stack web developer in the US!</h3>
 
 <p align="center"> Contact me: <a href="mailto:sptyiDev@gmail.com" target="blank"> sptyiDev@gmail.com </a> </p>
 
